@@ -1,0 +1,26 @@
+{
+  "Autoencoder": {
+    "goruntu_auroc": 0.8019,
+    "piksel_auroc": 0.8767,
+    "aupro": 0.7434,
+    "hata_yakalama": 0.4699,
+    "yanlis_alarm": 0.1145,
+    "ms_goruntu": 17.6533
+  },
+  "PatchCore %1": {
+    "goruntu_auroc": 0.9841,
+    "piksel_auroc": 0.9765,
+    "aupro": 0.8937,
+    "hata_yakalama": 0.913,
+    "yanlis_alarm": 0.0693,
+    "ms_goruntu": 18.8333
+  },
+  "PatchCore %10": {
+    "goruntu_auroc": 0.9867,
+    "piksel_auroc": 0.9786,
+    "aupro": 0.9017,
+    "hata_yakalama": 0.94,
+    "yanlis_alarm": 0.092,
+    "ms_goruntu": 20.66
+  }
+}
