@@ -1,0 +1,14 @@
+torch>=2.4
+torchvision>=0.19
+numpy
+scipy
+scikit-learn
+pandas
+pillow
+matplotlib
+fastapi
+uvicorn
+python-multipart
+gradio
+pytest
+httpx
